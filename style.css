@@ -2,6 +2,8 @@ body {
   background-color: pink;
   color: deeppink;
   font-size: 25px;
+
+  font-family: "Kosugi Maru", sans-serif;
 }
 h1 {
   color: deeppink;
@@ -11,13 +13,8 @@ h2 {
 }
 
 .background {
-  background-image: url(media/beach.jpg);
   background-position: center;
   background-size: cover;
   padding: 5px 5px;
   height: 50vh;
-}
-
-.span {
-  color: red;
 }
