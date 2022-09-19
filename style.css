@@ -1,9 +1,11 @@
 body {
-  background-color: pink;
+  background-color: #ffe5ec;
   color: deeppink;
   font-size: 25px;
 
   font-family: "Kosugi Maru", sans-serif;
+
+  text-align: center;
 }
 h1 {
   color: deeppink;
@@ -12,9 +14,33 @@ h2 {
   color: hotpink;
 }
 
+h3 {
+  color: palevioletred;
+}
+
 .background {
   background-position: center;
-  background-size: cover;
-  padding: 5px 5px;
-  height: 50vh;
+  height: 20vh;
+  margin: auto;
+  background: pink;
+  width: 50%;
+  padding: 30px;
+  border-radius: 25px;
+}
+
+.box1 {
+  margin-right: auto;
+  background: pink;
+  width: 50%;
+  padding: 30px;
+  border-radius: 25px;
+  text-align: left;
+}
+
+.opinion {
+  margin: auto;
+  background: pink;
+  width: 20%;
+  padding: 30px;
+  border-radius: 25px;
 }
