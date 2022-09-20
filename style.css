@@ -31,10 +31,16 @@ h3 {
 .box1 {
   margin-right: auto;
   background: pink;
-  width: 50%;
+  width: 25%;
   padding: 30px;
   border-radius: 25px;
   text-align: left;
+}
+.link {
+  color: deeppink;
+}
+.link :hover {
+  color: deeppink;
 }
 
 .opinion {
