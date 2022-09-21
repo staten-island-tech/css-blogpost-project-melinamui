@@ -18,6 +18,10 @@ h3 {
   color: palevioletred;
 }
 
+.fav {
+  color: deeppink;
+}
+
 .background {
   background-position: center;
   height: 20vh;
@@ -29,12 +33,21 @@ h3 {
 }
 
 .box1 {
-  margin-right: auto;
+  margin: auto;
   background: pink;
   width: 25%;
   padding: 30px;
   border-radius: 25px;
   text-align: left;
+}
+
+.elite {
+  margin: auto;
+  background: pink;
+  width: 50%;
+  padding: 30px;
+  border-radius: 25px;
+  text-align: center;
 }
 .link {
   color: deeppink;
